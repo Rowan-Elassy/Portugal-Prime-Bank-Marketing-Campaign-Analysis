@@ -2,14 +2,14 @@
 
 
 ### Table of Content
-- [Project Background](#ProjectBackground)
-- [Data Structure Overview](#DataStructureOverview)
-- [Executive Summary](#ExecutiveSummary)
-- [Insights Deep Dive](#InsightsDeepDive)
-  - [Subscription Rate Trend Analysis](#SubscriptionRateTrendAnalysis)
-  - [Subscribed clients’ demographics](#Subscribedclients’demographics)
-  - [Subscribed clients’ banking information](#Subscribedclients’bankinginformation)
-  - [Optimizing Marketing Efforts](#OptimizingMarketingEfforts)
+- [Project Background](#Project-Background)
+- [Data Structure Overview](#Data-Structure-Overview)
+- [Executive Summary](#Executive-Summary)
+- [Insights Deep Dive](#Insights-DeepDive)
+  - [Subscription Rate Trend Analysis](#Subscription-Rate-Trend-Analysis)
+  - [Subscribed Clients’ Demographics](#Subscribed-Clients’-Demographics)
+  - [Subscribed Clients’ Banking Information](#Subscribed-clients’-Banking-Information)
+  - [Optimizing Marketing Efforts](#Optimizing-Marketing-Efforts)
 - [Recommendations](#Recommendations)
 
 
@@ -54,10 +54,10 @@ The following scatter plots show the lack of relationship between each economic 
 
 The SQL queries used to aggregate and normalize the data can be found [here](marketing_campaign.sql).
 
-### Subscribed clients’ demographics 
+### Subscribed Clients’ Demographics 
 After examining the data provided about the client’s demographics, it shows that clients who are either married or single have higher chances to invest than those who are divorced as they account for only 12% of the clients who subscribed. As for their profession, higher subscription rate is evident among those in administrative roles, technology or healthcare section as they account for 30%, 26% and 19% of total subscribed clients, respectively. Education-wise, clients with a university degree or graduated high school are more likely to subscribe to deposits as they account for 53% of the grand total. Finally, among all of age groups, clients in their 30s and 40s take up 67% of total subscribed clients.
 
-### Subscribed clients’ banking information
+### Subscribed Clients’ Banking Information
 The likelihood that clients will subscribe to long-term deposits was analyzed according to their banking information using probability statistics. As the clients’ tenure year increase, the probability of them investing to long-term deposits increase. 
 
 ![Screenshot 2025-02-03 235438](https://github.com/user-attachments/assets/2678d510-60ef-44ac-97e1-af52eeb28690)
