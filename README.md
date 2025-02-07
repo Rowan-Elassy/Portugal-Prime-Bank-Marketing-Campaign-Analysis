@@ -8,7 +8,7 @@
 - [Insights Deep Dive](#Insights-DeepDive)
   - [Subscription Rate Trend Analysis](#Subscription-Rate-Trend-Analysis)
   - [Subscribed Clients’ Demographics](#Subscribed-Clients’-Demographics)
-  - [Subscribed Clients’ Banking Information](#Subscribed-clients’-Banking-Information)
+  - [Subscribed Clients’ Banking Information](#Subscribed-Clients’-Banking-Information)
   - [Optimizing Marketing Efforts](#Optimizing-Marketing-Efforts)
 - [Recommendations](#Recommendations)
 
